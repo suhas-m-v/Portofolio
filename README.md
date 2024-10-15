@@ -46,12 +46,12 @@ To view the portfolio locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/suhas-m-v/your-portfolio-repo.git
+    git clone (https://github.com/suhas-m-v/Portofolio.git)
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd your-portfolio-repo
+    cd Portofolio
     ```
 
 3. Open the `index.html` file in your browser.
