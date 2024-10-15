@@ -62,8 +62,9 @@ To view the portfolio locally, follow these steps:
 Open the `index.html` file in any modern web browser to explore the portfolio.
 
 ## Screenshots
-![Portfolio Home](path-to-screenshot1.png)
-![Projects Section](path-to-screenshot2.png)
+![Portfolio Home](https://github.com/suhas-m-v/Portofolio/blob/77e2556d3bf9af19fec2bd45d85251c46a2b869a/Screenshot%202024-10-15%20204848.png)
+![Projects Section](https://github.com/suhas-m-v/Portofolio/blob/77e2556d3bf9af19fec2bd45d85251c46a2b869a/Screenshot%202024-10-15%20204903.png)
+![Contact Section](https://github.com/suhas-m-v/Portofolio/blob/77e2556d3bf9af19fec2bd45d85251c46a2b869a/Screenshot%202024-10-15%20204948.png)
 
 ## Contributing
 If you want to contribute to this project:
