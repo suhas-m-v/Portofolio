@@ -1,3 +1,4 @@
+//script code for typewriting of name
 document.addEventListener("DOMContentLoaded",function(){
     const nameele=document.getElementById("typed-name");
     const name="Hi, I'm Suhas!";
